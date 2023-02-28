@@ -1,2 +1,3 @@
-DROP DATABASE IF EXISTS techediary_db;
-CREATE DATABASE _db;
+DROP DATABASE IF EXISTS crowdfund_db;
+
+CREATE DATABASE crowdfund_db;
